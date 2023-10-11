@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TJMueller
-- 👀 I’m interested in coding and discgolf
-- 🌱 I’m currently learning aws and postgreSQL
+
 
 
 <!---
